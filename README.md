@@ -47,6 +47,13 @@ At the end of each day the user can write the command `reflect check-out`
 
 ---
 ```
+
+   _ \          _|  |              |
+  |   |   _ \  |    |   _ \   __|  __|
+  __ <    __/  __|  |   __/  (     |
+ _| \_\ \___| _|   _| \___| \___| \__|
+
+
 Please rate whether you achieved what you set out to do this morning for your following items [(C)completed, (P)rogress, (N)o progress]:
     [C, P, N] Finnish one code review before lunch
     [C, P, N] Focus on work and silence any social media (facebook,youtube,messenger) notifications
