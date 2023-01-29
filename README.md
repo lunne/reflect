@@ -1,5 +1,10 @@
 # reflect
-Reflect on your work each day by doing a quick check-in in the morning and a reflection and report of the past day in the afternoon.
+Reflect on your work each day by doing a quick check-in in the morning and a reflection and report of the day in the afternoon.
+
+Goals usually stretch over days, weeks or years. Something that should be done each day and reflected upon. This is done by setting up recurring goals that will be visible and easy to select in the check-in.
+
+At the end of each week (or two weeks) a report from the system can be created to do a deeper analys of the progress. Are you completing the goals you setup or are you failing to even work on them? This will help you create new goals to help you correct and improve your performance.
+
 
 The user checks in in the morning by doing a simple cli command:
 `reflect checkin`
@@ -97,6 +102,16 @@ Did any other goals come to mind today that you would like to mention?
 How did you approach assessing your achievements and the progress you’ve made today?
 
 [text]
+
+         __
+ _(\    |@@|   Thank you and see you tomorrow!
+(__/\__ \--/ __
+   \___|----|  |   __
+       \ }{ /\ )_ / _\
+       /\__/\ \__O (__
+      (--/\--)    \__/
+      _)(  )(_
+     `---''---`
 ```
 
 
