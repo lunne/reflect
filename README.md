@@ -25,7 +25,7 @@ Previously, you’ve described the following goal to improve/maintain good habit
 Do you want to add them for today as well?
     [ ] Finnish one code review before lunch
     [ ] Focus on work and silence any social media (facebook,youtube,messenger) notifications
-    [ ] Medidate for 10 minutes
+    [ ] Meditate for 10 minutes
 
 Please answer the following question after planning your workday and before starting with your work.
 What do you plan to achieve today? (This could include tasks and other things you want to make progress on at work)
@@ -57,7 +57,7 @@ At the end of each day the user can write the command `reflect check-out`
 Please rate whether you achieved what you set out to do this morning for your following items [(C)completed, (P)rogress, (N)o progress]:
     [C, P, N] Finnish one code review before lunch
     [C, P, N] Focus on work and silence any social media (facebook,youtube,messenger) notifications
-    [C, P, N] Medidate for 10 minutes
+    [C, P, N] Meditate for 10 minutes
 
 ---
 What was the best work-related thing that happened to you today at work?
@@ -71,7 +71,7 @@ Was there anything else that you achieved but didn’t plan for in the morning?
 Was there something that made it difficult to achieve what you planned to do? Previously, you’ve described the following goal to improve or maintain good work habits:
     - Finnish one code review before lunch
     - Focus on work and silence any social media (facebook,youtube,messenger) notifications
-    - Medidate for 10 minutes
+    - Meditate for 10 minutes
 
 ---
 Did you actively try to achieve the goal?
