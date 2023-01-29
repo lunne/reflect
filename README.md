@@ -122,5 +122,12 @@ How did you approach assessing your achievements and the progress you’ve made 
 ```
 
 
+## Epics
+
+[ ] CRUD and Repository
+[ ] CLI
+[ ] Report
+[ ] Server (store your reports and goals on a server)
+
 ## Reference
 https://ieeexplore.ieee.org/document/8823032
